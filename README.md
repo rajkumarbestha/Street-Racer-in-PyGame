@@ -8,7 +8,7 @@ Install Python and the requirements stated in the requirements.txt
 
 ```python game.py```
 
-### Enjoy Gaming :p.
+### Happy Gaming :p.
 
 
 
